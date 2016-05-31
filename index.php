@@ -6,3 +6,4 @@
  * Time: 14:38
  */
 echo "<h1>Hello world</h1>";
+echo "<h2>Hello h2</h2>";
